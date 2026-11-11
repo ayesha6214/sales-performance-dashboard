@@ -15,7 +15,7 @@ This project presents an interactive Sales Performance Dashboard developed using
 - Sales by Region – Compares sales distribution across North, East, South, and West regions.
 - Interactive Filters – Month and Region slicers allow users to explore specific sales data.
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Sales Performance Dashboard](./Dashboard%20Screenshot.png)
 
